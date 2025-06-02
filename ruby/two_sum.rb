@@ -14,3 +14,6 @@ def two_sum(nums, target)
     seen[num] = i # Armazena o número atual e seu índice no hash
   end
 end
+
+# Testando
+puts two_sum([2, 7, 11, 15], 9).inspect # Saída: [0, 1]
