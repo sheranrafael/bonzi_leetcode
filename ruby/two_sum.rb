@@ -1,5 +1,4 @@
 # LeetCode #1: Two Sum (Ruby Solution)
-# Solução usando hash para O(n) time complexity.
 
 def two_sum(nums, target)
 
