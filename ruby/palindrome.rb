@@ -1,4 +1,5 @@
 # LeetCode #9: Palindrome Number (Ruby)
+
 def is_palindrome(x)
   return false if x < 0  # Números negativos não são palíndromos
 
