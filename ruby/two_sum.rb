@@ -1,4 +1,4 @@
-# LeetCode #1: Two Sum (Ruby Solution)
+# LeetCode #1: Two Sum (Ruby)
 
 def two_sum(nums, target)
 
