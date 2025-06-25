@@ -1,4 +1,4 @@
-# 📚 LeetCode Solutions (Ruby)
+# 📚 LeetCode Solutions
 
 Bem-vindo(a) ao meu repositório de soluções para problemas do LeetCode
 
