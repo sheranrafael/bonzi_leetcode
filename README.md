@@ -1,18 +1,19 @@
 # 📚 LeetCode Solutions
 
-Bem-vindo(a) ao meu repositório de soluções para problemas do LeetCode
+Welcome to my LeetCode solutions repository!
 
-## Objetivo
-Este repositório tem como objetivo:
-- Documentar meu progresso em lógica de programação.
-- Compartilhar soluções claras e eficientes.
-- Servir como material de estudo para outros iniciantes se possível.
+## Objective
+This repository aims to:
 
----
-
-## 📝 Licença
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para detalhes.
+- Document my progress in programming logic
+- Share clear and efficient solutions
+- Serve as study material for other beginners when possible
 
 ---
 
-Feito por [Sheran](https://github.com/sheranrafael). 
+## 📝  License
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE) for details.
+
+---
+
+Made by [Sheran](https://github.com/sheranrafael).
