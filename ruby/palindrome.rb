@@ -11,8 +11,8 @@ def is_palindrome(x)
     invertido = invertido * 10 + digito  # Constrói o número invertido
     x /= 10                  # Remove o último dígito
   end
-
   original == invertido
 end
 
 # Valeu
+
