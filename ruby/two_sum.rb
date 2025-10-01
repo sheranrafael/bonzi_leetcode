@@ -1,5 +1,4 @@
 # LeetCode #1: Two Sum (Ruby)
-
 def two_sum(nums, target)
 
   seen = {}  # Hash vazio para armazenar { valor: índice }
@@ -18,3 +17,4 @@ end
 puts two_sum([2, 7, 11, 15], 9).inspect # Saída: [0, 1]
 
 #Valeu
+
