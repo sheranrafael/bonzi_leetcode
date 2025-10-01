@@ -14,7 +14,7 @@ def add_strings(num1, num2)
     # Soma os dígitos + carry
     soma = digito1 + digito2 + carry
     carry = soma / 10  # Novo carry
-    digito_atual = soma % 10  # Dígito a ser adicionado ao resultado
+    digito_atual = soma % 10  #  Dígito a ser adicionado ao resultado
 
     # Adiciona o dígito ao início da string resultado
     resultado.prepend(digito_atual.to_s)
@@ -26,5 +26,6 @@ def add_strings(num1, num2)
 
   resultado
 end
+
 
 # Valeu
