@@ -1,4 +1,5 @@
 # LeetCode #509: Fibonacci Number (Ruby)
+
 def fib(n)
   return n if n <= 1
   
@@ -8,4 +9,5 @@ def fib(n)
   end
   
   a
+
 end
